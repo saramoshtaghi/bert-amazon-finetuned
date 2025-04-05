@@ -22,7 +22,7 @@ Source: [Kaggle - Consumer Reviews of Amazon Products](https://www.kaggle.com/da
 ## 👩‍💻 Author
 
 **Sara Moshtaghi** — NLP Researcher & Machine Learning Engineer  
-[Hugging Face](https://huggingface.co/saramoshtaghi) | [LinkedIn](https://linkedin.com/in/saramoshtaghi) | [GitHub](https://github.com/saramoshtaghi)
+[Hugging Face](https://huggingface.co/SaraWonder) | [LinkedIn](https://linkedin.com/in/saramoshtaghi) | [GitHub](https://github.com/saramoshtaghi)
 ---
 
 ## 🚀 Inference Example
